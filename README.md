@@ -66,5 +66,5 @@ https://github.com/williammoreschi/rag-culto
 
 ## 📫 Contato
 
-[LinkedIn](https://www.linkedin.com/in/williammoreschi/)  
+LinkedIn: [williammoreschi](https://www.linkedin.com/in/williammoreschi/)  
 Email: williammoreschi@gmail.com
