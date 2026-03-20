@@ -1,15 +1,70 @@
 # William Moreschi
 
-## Olá pessoal! 👋 :octocat:
-Sou apaixonado por resolver problemas através da programação. Sou um FullStack Developer :computer:
+## 👋 Sobre mim
 
-Atualmente, estou trabalhando no **Guia do Marceneiro**.
+Desenvolvedor Backend com mais de 10 anos de experiência, atuando na construção, manutenção e evolução de sistemas reais em produção.
 
-<br/> :purple_heart: Buscando colaborar em projetos de Front-end utilizando React e no Back-end com Node.js.
-<br/> :blush: Posso te ajudar com as stacks citadas abaixo.
-<br/> :computer: **Stack do dia a dia:** PHP, HTML, CSS, JQuery.
-<br/> :computer: **Stack estudando:** ReactJS, Node.js, React Native, Typescript, Python.
-<br/> 💬 Sobre mim: Gosto de tecnologias, games em geral e seriados no Netflix e Amazon Prime.
-<br/> :email: Entre em contato comigo:
-  [![Linkedin Badge](https://img.shields.io/badge/-williammoreschi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/williammoreschi/)](https://www.linkedin.com/in/williammoreschi/)
-  [![Gmail Badge](https://img.shields.io/badge/-devmoreschi@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:devmoreschi@gmail.com)](mailto:devmoreschi@gmail.com)
+Atualmente trabalho no **Guia do Marceneiro**, onde sou responsável pela evolução de sistemas internos críticos e integrações.
+
+Tenho perfil voltado para resolução de problemas, atuando com autonomia e foco em entregar soluções funcionais e sustentáveis.
+
+---
+
+## 🚀 Experiência
+
+- Desenvolvimento e manutenção de sistemas de vendas (legado + evolução)
+- Criação de sistemas internos a partir de processos manuais (Excel → Web)
+- Integrações com APIs externas
+- Estruturação e melhoria de código em aplicações existentes
+
+---
+
+## 🧠 Projetos relevantes
+
+### 🐇 RabbitMQ - Processamento assíncrono
+Implementação prática de mensageria com:
+
+- Producer / Consumer  
+- Retry simples  
+- Dead-letter queue  
+- Simulação de falhas e reprocessamento  
+
+https://github.com/williammoreschi/order-processing-rabbitmq
+
+---
+
+### 🤖 RAG com IA - Busca em conteúdo textual
+Sistema de busca semântica utilizando IA:
+
+- Chunking de texto + embeddings  
+- Query expansion  
+- Ranking de resultados  
+- API + interface simples (Next.js)  
+
+https://github.com/williammoreschi/rag-culto
+
+---
+
+## 🛠️ Stack principal
+
+- PHP (CodeIgniter)
+- MySQL
+- JavaScript
+- APIs REST
+- Integração de sistemas
+
+---
+
+## 📚 Estudando atualmente
+
+- Node.js
+- Arquitetura de software
+- Mensageria (RabbitMQ)
+- IA aplicada (RAG / embeddings)
+
+---
+
+## 📫 Contato
+
+[LinkedIn](https://www.linkedin.com/in/williammoreschi/)  
+Email: williammoreschi@gmail.com
